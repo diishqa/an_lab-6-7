@@ -203,6 +203,7 @@ fun RoundTheTipRow(
                 .wrapContentWidth(Alignment.End),
             checked = roundUp,
             onCheckedChange = onRoundUpChanged,
+
         )
     }
 }
