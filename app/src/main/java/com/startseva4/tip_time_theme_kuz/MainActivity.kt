@@ -1,6 +1,6 @@
 package com.startseva4.tip_time_theme_kuz
 
-import android.icu.text.NumberFormat
+import java.text.NumberFormat
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
