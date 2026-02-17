@@ -1,6 +1,6 @@
 package com.startseva4.tip_time_theme_kuz
 
-import junit.framework.TestCase.assertEquals
+import org.junit.Assert.assertEquals
 import org.junit.Test
 import java.text.NumberFormat
 
